@@ -24,26 +24,7 @@ h2 {
   color: #007965;
   padding-top: 0px;
 }
-.north {
-}
-nav a {
-  background: #cf4c0a;
-  border: 1px solid black;
-  border-radius: 20px;
-  color: #fff;
-  display: inline-block;
-  margin: 0px 10px;
-  padding: 5px;
-  text-transform: uppercase;
-  text-decoration: none;
-}
 
-nav a:hover {
-  background: #fff;
-  border: 2px solid #cf4c0a;
-  color: #cf4c0a;
-  animation: ease;
-}
 article {
   background-color: #f58634;
   border-radius: 20px;
@@ -55,6 +36,9 @@ img {
   margin-left: 20px;
   margin-right: 10px;
   width: 10%;
+}
+p {
+  font-size: 18px;
 }
 .moviepic {
   float: left;
