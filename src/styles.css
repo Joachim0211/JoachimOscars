@@ -59,8 +59,18 @@ img {
 .moviepic {
   float: left;
 }
-.mtext {
+.opinion {
   float: right;
+  display: block;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+.ibutton {
+  float: right;
+  display: block;
+  margin-left: 20px;
+  margin-right: -80px;
+  margin-top: 120px;
 }
 .bottom-container {
   background-color: #66bfbf;
