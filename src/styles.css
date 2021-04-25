@@ -49,14 +49,14 @@ p {
   margin-left: 20px;
   margin-right: 10px;
   resize: none;
-  height: 200px;
+  height: 300px;
 }
 .ibutton {
   float: right;
   display: block;
   margin-left: 20px;
   margin-right: -78px;
-  margin-top: 210px;
+  margin-top: 310px;
 }
 .bottom-container {
   background-color: #66bfbf;
