@@ -54,11 +54,15 @@ img {
   display: block;
   margin-left: 20px;
   margin-right: 10px;
-  width: 20%;
+  width: 12%;
 }
 .moviepic {
   float: left;
 }
 .mtext {
   float: right;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
 }
