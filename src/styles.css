@@ -47,7 +47,7 @@ nav a:hover {
 article {
   background-color: #f58634;
   border-radius: 20px;
-  height: 200px;
+  height: 300px;
 }
 
 img {
@@ -55,7 +55,6 @@ img {
   margin-left: 20px;
   margin-right: 10px;
   width: 20%;
-  height: 100%;
 }
 .moviepic {
   float: left;
