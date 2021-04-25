@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  background-color: #ffcc29;
 }
 
 header {
@@ -46,18 +47,18 @@ nav a:hover {
 article {
   background-color: #f58634;
   border-radius: 20px;
+  height: 250px;
 }
 
 img {
   display: block;
   margin-left: 20px;
-  margin-right: auto;
+  margin-right: 10px;
   width: 20%;
 }
-
-.m1 {
+.moviepic {
   float: left;
 }
-
-footer {
+.mtext {
+  float: right;
 }
