@@ -5,8 +5,15 @@ body {
 h1 {
   text-align: center;
   color: gold;
+  margin: 50px 0 0 0;
 }
 h2 {
   text-align: center;
   color: blueviolet;
+}
+.pageTitle {
+  width: 50%;
+  margin: 0 auto;
+  padding-bottom: 2%;
+  background-color: red;
 }
