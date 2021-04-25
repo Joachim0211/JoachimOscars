@@ -28,7 +28,7 @@ h2 {
 article {
   background-color: #f58634;
   border-radius: 20px;
-  height: 300px;
+  height: 350px;
 }
 
 img {
@@ -48,6 +48,7 @@ p {
   display: block;
   margin-left: 20px;
   margin-right: 10px;
+  resize: none;
 }
 .ibutton {
   float: right;
