@@ -64,15 +64,18 @@ p {
   background-color: #00af91;
   border-radius: 10px;
 }
+
 .bottom-container {
   background-color: #66bfbf;
   padding: 50px 0 20px;
   border-radius: 20px;
 }
+
 article {
   border: 2px solid white;
   border-radius: 20px;
 }
+
 .copyright {
   text-align: center;
 }
