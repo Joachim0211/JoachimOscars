@@ -69,7 +69,10 @@ p {
   padding: 50px 0 20px;
   border-radius: 20px;
 }
-
+article {
+  border: 2px solid white;
+  border-radius: 20px;
+}
 .copyright {
   text-align: center;
 }
