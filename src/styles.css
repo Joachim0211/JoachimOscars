@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  background-color: #ffcc29;
+  background-color: #ffffb3;
 }
 
 header {
@@ -17,12 +17,14 @@ h1 {
   text-align: center;
   color: gold;
   margin-top: 0px;
+  margin-bottom: 0px;
   padding: 5px;
 }
 h2 {
   text-align: center;
   color: #007965;
   padding-top: 0px;
+  margin-top: 0px;
 }
 
 article {
@@ -50,6 +52,7 @@ p {
   margin-right: 10px;
   resize: none;
   height: 240px;
+  background-color: #00af91;
 }
 .ibutton {
   float: right;
@@ -57,10 +60,12 @@ p {
   margin-left: 20px;
   margin-right: -78px;
   margin-top: 250px;
+  background-color: #00af91;
 }
 .bottom-container {
   background-color: #66bfbf;
   padding: 50px 0 20px;
+  border-radius: 20px;
 }
 
 .copyright {
@@ -68,4 +73,7 @@ p {
 }
 #linkschiwago {
   margin-left: 200px;
+}
+textarea::placeholder {
+  color: white;
 }
